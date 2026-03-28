@@ -11,6 +11,7 @@ EC11 Rotary encoder
 # CAD Model:
 
 Two parts: a case and a lid. (IDK why my PCB rendered that way). The holes will be covered with keycaps and the rotary encoder.
+<img width="815" height="444" alt="image" src="https://github.com/user-attachments/assets/60d38b67-9138-4994-b5d7-aced272f4ae6" />
 
 ![][image1]  
 Made in Onshape
