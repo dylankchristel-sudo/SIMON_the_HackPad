@@ -28,7 +28,7 @@ PCB
 
 # Firmware:
 
-The firmware is super basic, just escape, shift, alt, and control keys are defined until I have time to fix it.
+The firmware is super basic, just escape, shift, alt, and control keys are defined until I have time to fix it. -This wasn't directly copied from ai but I did use it to figure out how to write the syntax for it.
 
 # BOM:
 
