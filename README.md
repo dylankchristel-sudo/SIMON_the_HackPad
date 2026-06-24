@@ -28,7 +28,10 @@ PCB
 
 # Firmware:
 
-The firmware is super basic, just escape, shift, alt, and control keys are defined until I have time to fix it. -This wasn't directly copied from ai but I did use it to figure out how to write the syntax for it.
+ The keys are linked to d, y, l, rgb control, and n.
+  The rotary encoder controls volume (up/doen/mute)
+  The OLED displays a welcome message aad layer info.
+  The LEDs light up for style
 
 # BOM:
 
