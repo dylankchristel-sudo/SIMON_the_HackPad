@@ -1,6 +1,6 @@
-# SIMON
+# SIMOND 
 
-SIMON is a keypad designed to be usable in several applications. It has 5 keys, a rotary encoder, an OLED display, and 4 WS2812B LEDs. It uses KMK firmware.
+SIMOND is a keypad designed to be usable in several applications. It has 5 keys, a rotary encoder, an OLED display, and 4 WS2812B LEDs. It uses KMK firmware.
 
 # Features:
 
