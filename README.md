@@ -19,6 +19,8 @@ Made in Onshape
 
 # PCB:
 
+The microcontroller is actually a seeed studio XIAO rp2040. For some reason the symbol for that part was labeled wrong on the schematic and PCB editor.
+
 Schematic  
 <img width="996" height="597" alt="Screenshot 2026-03-28 090822" src="https://github.com/user-attachments/assets/8d6db5d5-39c7-43bb-8486-a78c791ed15a" />
 
