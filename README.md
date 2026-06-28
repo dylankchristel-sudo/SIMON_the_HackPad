@@ -8,6 +8,9 @@ SIMOND is a keypad designed to be usable in several applications. It has 5 keys,
 EC11 Rotary encoder  
 4 WS2812B AR LEDs
 
+<img width="720" height="1280" alt="Snapchat-1873251936" src="https://github.com/user-attachments/assets/1b661620-3187-456a-9315-dc2d95e17534" />
+
+
 # CAD Model:
 
 Two parts: a case and a lid. (IDK why my PCB rendered that way). The holes will be covered with keycaps and the rotary encoder.
