@@ -8,8 +8,7 @@ SIMOND is a keypad designed to be usable in several applications. It has 5 keys,
 EC11 Rotary encoder  
 4 WS2812B AR LEDs
 
-<img width="720" height="1280" alt="Snapchat-1873251936" src="https://github.com/user-attachments/assets/1b661620-3187-456a-9315-dc2d95e17534" />
-
+<img width="720" height="1280" alt="Snapchat-1873251936~2" src="https://github.com/user-attachments/assets/b59a7719-2015-4dc5-8e02-2998d579d168" />
 
 # CAD Model:
 
